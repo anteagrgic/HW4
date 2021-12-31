@@ -1,0 +1,32 @@
+/Users/sasamarjanovic/Projects/oop_homework3/WeatherAPP/bin/Debug/netcoreapp3.1/WeatherAPP.deps.json
+/Users/sasamarjanovic/Projects/oop_homework3/WeatherAPP/bin/Debug/netcoreapp3.1/WeatherAPP.runtimeconfig.json
+/Users/sasamarjanovic/Projects/oop_homework3/WeatherAPP/bin/Debug/netcoreapp3.1/WeatherAPP.runtimeconfig.dev.json
+/Users/sasamarjanovic/Projects/oop_homework3/WeatherAPP/bin/Debug/netcoreapp3.1/WeatherAPP.dll
+/Users/sasamarjanovic/Projects/oop_homework3/WeatherAPP/bin/Debug/netcoreapp3.1/WeatherAPP.pdb
+/Users/sasamarjanovic/Projects/oop_homework3/WeatherAPP/bin/Debug/netcoreapp3.1/weatherLibrary.dll
+/Users/sasamarjanovic/Projects/oop_homework3/WeatherAPP/bin/Debug/netcoreapp3.1/weatherLibrary.pdb
+/Users/sasamarjanovic/Projects/oop_homework3/WeatherAPP/obj/Debug/netcoreapp3.1/WeatherAPP.csproj.AssemblyReference.cache
+/Users/sasamarjanovic/Projects/oop_homework3/WeatherAPP/obj/Debug/netcoreapp3.1/WeatherAPP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sasamarjanovic/Projects/oop_homework3/WeatherAPP/obj/Debug/netcoreapp3.1/WeatherAPP.AssemblyInfoInputs.cache
+/Users/sasamarjanovic/Projects/oop_homework3/WeatherAPP/obj/Debug/netcoreapp3.1/WeatherAPP.AssemblyInfo.cs
+/Users/sasamarjanovic/Projects/oop_homework3/WeatherAPP/obj/Debug/netcoreapp3.1/WeatherAPP.csproj.CoreCompileInputs.cache
+/Users/sasamarjanovic/Projects/oop_homework3/WeatherAPP/obj/Debug/netcoreapp3.1/WeatherAPP.csproj.CopyComplete
+/Users/sasamarjanovic/Projects/oop_homework3/WeatherAPP/obj/Debug/netcoreapp3.1/WeatherAPP.dll
+/Users/sasamarjanovic/Projects/oop_homework3/WeatherAPP/obj/Debug/netcoreapp3.1/WeatherAPP.pdb
+/Users/sasamarjanovic/Projects/oop_homework3/WeatherAPP/obj/Debug/netcoreapp3.1/WeatherAPP.genruntimeconfig.cache
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\WeatherAPP\obj\Debug\netcoreapp3.1\WeatherAPP.csprojAssemblyReference.cache
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\WeatherAPP\obj\Debug\netcoreapp3.1\WeatherAPP.AssemblyInfoInputs.cache
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\WeatherAPP\obj\Debug\netcoreapp3.1\WeatherAPP.AssemblyInfo.cs
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\WeatherAPP\obj\Debug\netcoreapp3.1\WeatherAPP.csproj.CoreCompileInputs.cache
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\WeatherAPP\obj\Debug\netcoreapp3.1\WeatherAPP.dll
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\WeatherAPP\obj\Debug\netcoreapp3.1\WeatherAPP.pdb
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\WeatherAPP\bin\Debug\netcoreapp3.1\WeatherAPP.exe
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\WeatherAPP\bin\Debug\netcoreapp3.1\WeatherAPP.deps.json
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\WeatherAPP\bin\Debug\netcoreapp3.1\WeatherAPP.runtimeconfig.json
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\WeatherAPP\bin\Debug\netcoreapp3.1\WeatherAPP.runtimeconfig.dev.json
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\WeatherAPP\bin\Debug\netcoreapp3.1\WeatherAPP.dll
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\WeatherAPP\bin\Debug\netcoreapp3.1\WeatherAPP.pdb
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\WeatherAPP\bin\Debug\netcoreapp3.1\weatherLibrary.dll
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\WeatherAPP\bin\Debug\netcoreapp3.1\weatherLibrary.pdb
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\WeatherAPP\obj\Debug\netcoreapp3.1\WeatherAPP.csproj.CopyComplete
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\WeatherAPP\obj\Debug\netcoreapp3.1\WeatherAPP.genruntimeconfig.cache

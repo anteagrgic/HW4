@@ -1,0 +1,39 @@
+/Users/sasamarjanovic/Projects/WeatherAPP/watherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.csproj.AssemblyReference.cache
+/Users/sasamarjanovic/Projects/WeatherAPP/watherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sasamarjanovic/Projects/WeatherAPP/watherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.AssemblyInfoInputs.cache
+/Users/sasamarjanovic/Projects/WeatherAPP/watherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.AssemblyInfo.cs
+/Users/sasamarjanovic/Projects/WeatherAPP/watherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.csproj.CoreCompileInputs.cache
+/Users/sasamarjanovic/Projects/WeatherAPP/watherLibrary/bin/Debug/netcoreapp3.1/weatherLibrary.deps.json
+/Users/sasamarjanovic/Projects/WeatherAPP/watherLibrary/bin/Debug/netcoreapp3.1/weatherLibrary.dll
+/Users/sasamarjanovic/Projects/WeatherAPP/watherLibrary/bin/Debug/netcoreapp3.1/weatherLibrary.pdb
+/Users/sasamarjanovic/Projects/WeatherAPP/watherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.dll
+/Users/sasamarjanovic/Projects/WeatherAPP/watherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.pdb
+/Users/sasamarjanovic/Projects/homework3/watherLibrary/bin/Debug/netcoreapp3.1/weatherLibrary.deps.json
+/Users/sasamarjanovic/Projects/homework3/watherLibrary/bin/Debug/netcoreapp3.1/weatherLibrary.dll
+/Users/sasamarjanovic/Projects/homework3/watherLibrary/bin/Debug/netcoreapp3.1/weatherLibrary.pdb
+/Users/sasamarjanovic/Projects/homework3/watherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.csproj.AssemblyReference.cache
+/Users/sasamarjanovic/Projects/homework3/watherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sasamarjanovic/Projects/homework3/watherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.AssemblyInfoInputs.cache
+/Users/sasamarjanovic/Projects/homework3/watherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.AssemblyInfo.cs
+/Users/sasamarjanovic/Projects/homework3/watherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.csproj.CoreCompileInputs.cache
+/Users/sasamarjanovic/Projects/homework3/watherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.dll
+/Users/sasamarjanovic/Projects/homework3/watherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.pdb
+/Users/sasamarjanovic/Projects/oop_homework3/watherLibrary/bin/Debug/netcoreapp3.1/weatherLibrary.deps.json
+/Users/sasamarjanovic/Projects/oop_homework3/watherLibrary/bin/Debug/netcoreapp3.1/weatherLibrary.dll
+/Users/sasamarjanovic/Projects/oop_homework3/watherLibrary/bin/Debug/netcoreapp3.1/weatherLibrary.pdb
+/Users/sasamarjanovic/Projects/oop_homework3/watherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.csproj.AssemblyReference.cache
+/Users/sasamarjanovic/Projects/oop_homework3/watherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sasamarjanovic/Projects/oop_homework3/watherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.AssemblyInfoInputs.cache
+/Users/sasamarjanovic/Projects/oop_homework3/watherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.AssemblyInfo.cs
+/Users/sasamarjanovic/Projects/oop_homework3/watherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.csproj.CoreCompileInputs.cache
+/Users/sasamarjanovic/Projects/oop_homework3/watherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.dll
+/Users/sasamarjanovic/Projects/oop_homework3/watherLibrary/obj/Debug/netcoreapp3.1/weatherLibrary.pdb
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\watherLibrary\obj\Debug\netcoreapp3.1\weatherLibrary.csprojAssemblyReference.cache
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\watherLibrary\obj\Debug\netcoreapp3.1\weatherLibrary.AssemblyInfoInputs.cache
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\watherLibrary\obj\Debug\netcoreapp3.1\weatherLibrary.AssemblyInfo.cs
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\watherLibrary\obj\Debug\netcoreapp3.1\weatherLibrary.csproj.CoreCompileInputs.cache
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\watherLibrary\obj\Debug\netcoreapp3.1\weatherLibrary.dll
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\watherLibrary\obj\Debug\netcoreapp3.1\weatherLibrary.pdb
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\watherLibrary\bin\Debug\netcoreapp3.1\weatherLibrary.deps.json
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\watherLibrary\bin\Debug\netcoreapp3.1\weatherLibrary.dll
+C:\Users\agrgi\OneDrive\Radna površina\oop_homework3\watherLibrary\bin\Debug\netcoreapp3.1\weatherLibrary.pdb

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{0AF71E29-D523-43C8-B0EA-14C815C52B83}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="watherLibrary/ConsolePrinter.cs">
+    <Files>
+      <File FileName="WeatherAPP/Program.cs" Line="2" Column="22" />
+      <File FileName="watherLibrary/IPrinter.cs" Line="6" Column="34" />
+      <File FileName="watherLibrary/FilePrinter.cs" Line="24" Column="14" />
+      <File FileName="watherLibrary/ConsolePrinter.cs" Line="22" Column="39" />
+      <File FileName="watherLibrary/ForecastUtilities.cs" Line="48" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="oop_homework3" expanded="True">
+            <Node name="WeatherAPP" expanded="True" />
+            <Node name="weatherLibrary" expanded="True">
+              <Node name="FilePrinter.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WeatherAPP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
